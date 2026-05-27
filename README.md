@@ -19,6 +19,3 @@ Some projects I've worked on include:
 - Numerical physics problems
 
 Outside of academics, I enjoy writing poetry, learning new concepts, and building things that combine physics with code.
-
-> “Coding the physics behind the universe.”
--->
