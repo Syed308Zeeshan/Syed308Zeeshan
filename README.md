@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Hey there! 👋
+## Hey there! 👋
 
 I'm Syed, a physics undergraduate exploring computational physics and scientific computing.
 
