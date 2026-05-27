@@ -2,7 +2,7 @@
 
 I'm Syed, a physics undergraduate exploring computational physics and scientific computing.
 
-I build simulations and visualizations using Python, NumPy, and Matplotlib — mostly around orbital mechanics, electromagnetism, and numerical methods.
+I build simulations and visualizations using Python, NumPy, and Matplotlib -  mostly around orbital mechanics, electromagnetism, and numerical methods.
 
 Currently exploring:
 - Computational Physics
@@ -10,4 +10,4 @@ Currently exploring:
 - Scientific Programming
 - Simulation & Visualization
 
-Outside academics, I enjoy poetry, late-night curiosity spirals, and building things that help me understand physics better.
+Outside of academics, I enjoy writing poetry, learning new concepts, and building things that combine physics with code.
